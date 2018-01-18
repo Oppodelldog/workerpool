@@ -15,9 +15,3 @@ WorkerPool encapsulates creation and control of co-routines.
 
 
 **I'm not sure if this use case satisfies a 'library'.**
-
-
-
-
-
-
